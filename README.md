@@ -8,4 +8,6 @@ O projeto vem composto de dois notebooks, um onde teremos a [Analise Textual Vag
 
 O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análise além da exportação do dataset que usaremos posteriormente para as predições.
 
-**Começamos o projeto, com a importação de algumas bibliotecas, em alguns casos necessitarão de instalação.** 
+### Importação das Bibliotecas necessárias para a AED
+
+![lib_AED](https://user-images.githubusercontent.com/61605612/148662577-9156b474-5359-4688-8f67-ae89e2fe0ca9.jpg)
