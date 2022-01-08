@@ -4,6 +4,7 @@
 
 O projeto vem composto de dois notebooks, um onde teremos a [Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb) e outro onde efetuaremos as predições, avaliação do modelo e geração da saida.
 
-Este notebook que segue contém a análise exploratória, transformação e alguns insights sobre os dados.
+# Execução do projeto 
 
-[Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb)
+O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análise além da exportação do dataset que usaremos posteriormente para as predições. 
+Começamos o projeto, com a importação de algumas bibliotecas, em alguns casos necessitarão de instalação. 
