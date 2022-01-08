@@ -16,6 +16,12 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 
 ![lib_AED](https://user-images.githubusercontent.com/61605612/148662577-9156b474-5359-4688-8f67-ae89e2fe0ca9.jpg)
 
+### Carregamento do Dataset
+
+![AED](https://user-images.githubusercontent.com/61605612/148663831-6240b0d9-c7d7-434e-80c0-8eb2ac08fd9a.jpg)
+* Aqui temos uma parte importante, onde tem se o parenteses é o caminho do arquivo .csv que será usado. Nesse caso o 'train.csv', como sugestão sempre sugiro que o arquivo fique sempre na mesma pasta do notebook. 
+
+
 # Referências 
 
 **XGBoost** - https://xgboost.readthedocs.io/en/stable/
