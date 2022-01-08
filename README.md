@@ -10,7 +10,7 @@ A métrica usada para a avaliação do modelo foi o Erro Médio Absoluto(MAE), o
 
 # Execução do projeto 
 
-O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análise além da exportação do dataset que usaremos posteriormente para as predições.
+O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições.
 
 ### Importação das Bibliotecas necessárias para a AED
 
