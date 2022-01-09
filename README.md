@@ -32,6 +32,7 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 Caso os dados os quais necessitem ser análisados não contenham características relevantes, pode-se adicionar características a partir de outras. Aqui efetuamos a criação de algumas características, tais como faixa salarial, base para cálculo anual do salário (caso esse dataset não tivesse essa característica seria de grande valia), entre outras.
 
 ![AED3](https://user-images.githubusercontent.com/61605612/148664222-23e1dc0d-2cbe-49c8-a986-0e80ccdd09b6.jpg)
+* Aqui criamos uma função para percorrer a coluna determinada e ficar com apenas os algarismos.
 ![AED4](https://user-images.githubusercontent.com/61605612/148664247-07b39f24-e6f5-44de-9fdb-ec7d77353f2e.jpg)
 
 * Aqui pode-se observar a criação de duas novas características que são 
