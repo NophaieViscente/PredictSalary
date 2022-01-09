@@ -27,6 +27,10 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 * Aqui pode-se observar que a cidade onde mais se tem vagas é **Londres**. 
 * Essa análise fora obtida com uma contagem do agrupamento através da localização bruta das vagas e organizada de forma ascendente.
 
+### Criação de Características
+
+Caso os dados os quais necessitem ser análisados não contenham características relevantes, pode-se adicionar características a partir de outras. Aqui efetuamos a criação de algumas características, tais como faixa salarial, base para cálculo anual do salário (caso esse dataset não tivesse essa característica seria de grande valia), entre outras .
+
 
 # Referências 
 
