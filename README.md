@@ -24,7 +24,8 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 ### Insights Iniciais
 
 ![AED2](https://user-images.githubusercontent.com/61605612/148663971-d9622199-c9ad-459f-b801-4dc0b98f0ac3.jpg)
-* Aqui pode-se observar que a cidade onde mais se tem vagas é Londres.
+* Aqui pode-se observar que a cidade onde mais se tem vagas é Londres. 
+* Essa análise fora obtida com uma contagem do agrupamento através da localização bruta das vagas e organizada de forma ascendente.
 
 
 # Referências 
