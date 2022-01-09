@@ -2,7 +2,8 @@
 
 * Esse projeto visa uma solução para a competição https://www.kaggle.com/c/job-salary-prediction do Kaggle, onde o objetivo é analisar textos de vagas de emprego e efetuar predições dos salários para essas vagas.
 * O projeto será executado totalmente via jupyter notebook. Será necessário a instalação de algumas bibliotecas, são elas :
-[word2vec](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html), [nltk](https://www.nltk.org/), [wordcloud](http://amueller.github.io/word_cloud/).  
+[word2vec](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html), [nltk](https://www.nltk.org/), [wordcloud](http://amueller.github.io/word_cloud/).
+**As instruções para a execução do projeto encontram-se dentro dos próprios notebooks.**
 
 ### Visão Geral
 A Análise das vagas de emprego pode ser importante tanto para usuários quanto para empresas, para usuários para saber se determinada vaga atende a seus requisitos salariais e para emoresas para que se possa praticar um salário justo, alinhado com o mercado. Neste projeto tem se por objetivo analisar os dados fornecidos na competição da Adzuna do Kaggle, para tentar predizer o salário anual para cada vaga.
