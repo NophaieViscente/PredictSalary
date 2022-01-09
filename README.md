@@ -66,7 +66,10 @@ Essa parte do projeto ainda não foi desenvolvida.
 
 ### Limitações e Trabalhos Futuros
 
-Como sugestão sugere-se o uso de outras características para as análises, como, Title+Company+LocationRaw para a formação de novas características e utilização. Utilização de modelos diferentes de vetorização para o texto, como, TF-IDF. Também possibilidade de utilização de um algoritmo linear mais poderoso como o [Vowpal Wabbit](https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/index.html). Dentre as limitações estão o Hardware, por se tratar de um grande volume textual, é interessante ter um hardware sgnificativamente bom para o treinamento/otimização dos modelos.
+* Como sugestão sugere-se o uso de outras características para as análises. 
+* Utilização de modelos diferentes de vetorização para o texto, como TF-IDF. 
+* Possibilidade de utilização de um algoritmo linear mais poderoso como o [Vowpal Wabbit](https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/index.html). 
+* Dentre as limitações estão o Hardware, por se tratar de um grande volume textual, é interessante ter um hardware sgnificativamente bom para o treinamento/otimização dos modelos.
 
 
 # Referências 
