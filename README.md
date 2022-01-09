@@ -6,7 +6,7 @@
 
 **IMPORTANTE!** 
 
-Caso a instalação do módulo wordcloud falhe via pip, o mesmo terá de ser instalado via conda com o seguinte comando : **conda install -c conda-forge wordcloud**
+Caso a instalação do módulo **wordcloud** falhe via pip, o mesmo terá de ser instalado via conda com o seguinte comando : **conda install -c conda-forge wordcloud**
 
 **As instruções para a execução do projeto encontram-se dentro dos próprios notebooks.**
 
