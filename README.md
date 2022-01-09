@@ -29,12 +29,12 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 
 ### Entendimento dos Dados
 
-* Os dados utilizados são dados fornecidos pela Adzuna para a competição do [Job Prediction](https://www.kaggle.com/c/job-salary-prediction) do Kaggle, os dados de treino contém as colunas:
-* Id, Title, FullDescription, LocationRaw, LocationNormalized, ContractType, ContractTime, Company, Category, SalaryRaw, SalaryNormalized e SourceName.
+* Os dados utilizados são dados fornecidos pela Adzuna para a competição [Job Prediction](https://www.kaggle.com/c/job-salary-prediction) do Kaggle, os dados de treino contém as colunas:
+***Id, Title, FullDescription, LocationRaw, LocationNormalized, ContractType, ContractTime, Company, Category, SalaryRaw, SalaryNormalized e SourceName.***
 
 * Os dados de teste e validação não contém as colunas relacionadas ao salário, SalaryRaw e SalaryNormalized.
 
-O dataSet de treino tem 244768 linhas. Conforme imagem : 
+O dataSet de treino tem ***244768*** linhas. Conforme imagem : 
 
 ![AED5](https://user-images.githubusercontent.com/61605612/148666686-c971e04d-bdc4-423e-b8b8-1bef1e2e27b8.jpg)
 * Existem algumas colunas com dados nulos/faltantes, são elas : ContractType, ContractTime, Company e Title.
