@@ -1,7 +1,7 @@
 # Projeto de Previsão Salarial - Usando Processamento de Linguagem Natural (PLN)
 
 * Esse projeto visa uma solução para a competição https://www.kaggle.com/c/job-salary-prediction do Kaggle, onde o objetivo é analisar textos de vagas de emprego e efetuar predições dos salários para essas vagas.
-* O projeto será executado totalmente via jupyter notebook. Será necessário a instalação de algumas bibliotecas, caso não se tenha, são elas :
+* O projeto será executado totalmente via jupyter notebook. Será necessário a instalação de algumas bibliotecas, são elas :
 [word2vec](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html), [nltk](https://www.nltk.org/), [wordcloud](http://amueller.github.io/word_cloud/).  
 
 ### Visão Geral
