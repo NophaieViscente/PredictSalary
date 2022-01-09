@@ -19,7 +19,7 @@ https://www.kaggle.com/c/job-salary-prediction/data
 
 O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados (AED)](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições que estão no notebook ...
 
-### Entendimento Inicial - Objetivo do Projeto 
+### Entendimento Objetivos do Projeto 
 
 * O objetivo do projeto é predizer salários com base na descrição textual de suas vagas.
 
@@ -55,7 +55,19 @@ O dataSet de treino tem ***244768*** linhas. Conforme imagem :
 * Ambos os modelos testados foram contemplados com pré-processamento de palavras do modelo [Word2Vec](https://medium.com/@everton.tomalok/word2vec-e-sua-import%C3%A2ncia-na-etapa-de-pr%C3%A9-processamento-d0813acfc8ab#:~:text=Word2Vec%20%C3%A9%20um%20m%C3%A9todo%20estat%C3%ADstico%20para%20aprender%20eficientemente,independente%2C%20a%20partir%20de%20um%20corpus%20de%20texto.).
 *  Após isso foram passados os dados para os modelos preditores [Regressão Linear](https://medium.com/@lauradamaceno/regress%C3%A3o-linear-6a7f247c3e29) e [XGBoost](https://xgboost.readthedocs.io/en/stable/) para treinamento e validação.
 
+### Avaliação
 
+* Para a avaliação fora usada a métrica de MAE. 
+* O modelo que teve melhor performance foi o XGBoost, com um score de 0,71. 
+* E um Erro Médio Absoluto (MAE) de ...
+
+### Deploy
+
+Essa parte do projeto ainda não foi desenvolvida.
+
+### Limitações e Trabalhos Futuros
+
+Como sugestão sugere-se o uso de outras características para as análises, como, Title+Company+LocationRaw para a formação de novas características e utilização. Utilização de modelos diferentes de vetorização para o texto, como, TF-IDF. Também possibilidade de utilização de um algoritmo linear mais poderoso como o [Vowpal Wabbit](https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/index.html). Dentre as limitações estão o Hardware, por se tratar de um grande volume textual, é interessante ter um hardware sgnificativamente bom para o treinamento/otimização dos modelos.
 
 
 # Referências 
@@ -63,6 +75,8 @@ O dataSet de treino tem ***244768*** linhas. Conforme imagem :
 **Erro Médio Absoluto** - https://medium.com/data-hackers/prevendo-n%C3%BAmeros-entendendo-m%C3%A9tricas-de-regress%C3%A3o-35545e011e70
 
 **Regressão Linear** - https://medium.com/@lauradamaceno/regress%C3%A3o-linear-6a7f247c3e29
+
+**Vowpal Wabbit** - https://vowpalwabbit.org/docs/vowpal_wabbit/python/latest/index.html
 
 **XGBoost** - https://xgboost.readthedocs.io/en/stable/
 
