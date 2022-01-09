@@ -4,8 +4,7 @@
 * O projeto será executado totalmente via jupyter notebook. Será necessário a instalação de algumas bibliotecas, são elas :
 [word2vec](https://radimrehurek.com/gensim/auto_examples/tutorials/run_word2vec.html), [nltk](https://www.nltk.org/), [wordcloud](http://amueller.github.io/word_cloud/).
 
-**IMPORTANTE!** Caso a instalação do módulo wordcloud falhe via pip, o mesmo terá de ser instalado via conda com o seguinte comando :
-**conda install -c conda-forge wordcloud**
+**IMPORTANTE!** Caso a instalação do módulo wordcloud falhe via pip, o mesmo terá de ser instalado via conda com o seguinte comando : **conda install -c conda-forge wordcloud**
 
 **As instruções para a execução do projeto encontram-se dentro dos próprios notebooks.**
 
