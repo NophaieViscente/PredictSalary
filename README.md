@@ -20,7 +20,7 @@ https://www.kaggle.com/c/job-salary-prediction/data
 
 * Para a execução do projeto fora usado a metodologia CRISP-DM, apenas não sendo contemplada a etapa de deploy do modelo, que poderá ser executada posteriormente.
 
-O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados (AED)](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições que estão no notebook [Avaliação,Exportação e Predições do Modelo](/PredictSalary_RegressionProblemExample_Training_Evaluating_Models.ipynb).
+O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados (AED)](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições que estão no notebook, [Avaliação,Exportação e Predições do Modelo](/PredictSalary_RegressionProblemExample_Training_Evaluating_Models.ipynb).
 
 ### Entendimento : Objetivos do Projeto 
 
