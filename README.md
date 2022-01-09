@@ -19,7 +19,12 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 ### Carregamento do Dataset
 
 ![AED](https://user-images.githubusercontent.com/61605612/148663831-6240b0d9-c7d7-434e-80c0-8eb2ac08fd9a.jpg)
-* Aqui temos uma parte importante, onde tem se o parenteses é o caminho do arquivo .csv que será usado. Nesse caso o 'train.csv', como sugestão sempre sugiro que o arquivo fique sempre na mesma pasta do notebook. 
+* Aqui temos uma parte importante, dentro do parenteses fica o caminho do arquivo .csv a ser analisado que é variável. No caso da imagem o 'train.csv' mas em sua máquina poderá ser outro caminho, como sugestão sempre sugiro que o arquivo fique sempre na mesma pasta do notebook.
+
+### Insights Iniciais
+
+![AED2](https://user-images.githubusercontent.com/61605612/148663971-d9622199-c9ad-459f-b801-4dc0b98f0ac3.jpg)
+* Aqui pode-se observar que a cidade onde mais se tem vagas é Londres.
 
 
 # Referências 
