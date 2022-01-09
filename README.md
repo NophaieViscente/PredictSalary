@@ -58,8 +58,7 @@ O dataSet de treino tem ***244768*** linhas. Conforme imagem :
 ### Avaliação
 
 * Para a avaliação fora usada a métrica de MAE. 
-* O modelo que teve melhor performance foi o XGBoost, com um score de 0,71. 
-* E um Erro Médio Absoluto (MAE) de ...
+* O modelo que teve melhor performance foi o XGBoost, com um score de 0.71 e MAE no conjunto de treinamento de ...
 
 ### Deploy
 
