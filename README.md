@@ -15,13 +15,15 @@ https://www.kaggle.com/c/job-salary-prediction/data
 
 # Execução do projeto
 
-* Para a execução do projeto fora usado a metodologia CRISP, apenas não sendo contemplada a etapa de deploy do modelo, que poderá ser executada posteriormente.
+* Para a execução do projeto fora usado a metodologia CRISP-DM, apenas não sendo contemplada a etapa de deploy do modelo, que poderá ser executada posteriormente.
 
 O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados (AED)](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições que estão no notebook ...
 
 ### Entendimento do Negócio 
 
 * O objetivo do projeto é predizer salários com base na descrição textual de suas vagas.
+
+**Quem poderá utilizar as análises ?**
 * Empresas podem utilizar as análises para equiparar seus salários e criar vagas atrativas a determinado tipo de profissional.
 * Usuários podem utilizar as análises para validar se a vaga contém o salário desejado.
 
