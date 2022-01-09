@@ -1,4 +1,4 @@
-# Projeto de Previsão Salarial
+# Projeto de Previsão Salarial - Usando Processamento de Linguagem Natural (PLN)
 
 * Esse projeto faz parte da competição https://www.kaggle.com/c/job-salary-prediction do Kaggle, onde o objetivo é analisar textos de vagas de emprego e efetuar predições dos salários para essas vagas.
 * O projeto será executado totalmente via jupyter notebook.
