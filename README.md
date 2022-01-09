@@ -43,7 +43,7 @@ O dataSet de treino tem ***244768*** linhas. Conforme imagem :
 
 ***Várias etapas estão contempladas nessa etapa.***
 
-* Retirada de caracteres indesejados do texto, como caracteres especiais, numerais etc...;
+* Retirada de caracteres indesejados do texto, como caracteres especiais e numerais;
 * Transformação de todo o texto em minúscula, para a padronização de texto;
 * Remoção de palavras não aproveitáveis, como 'stopwords' por exemplo; 
 * Criação de novas características, como Faixa Salarial, Base de Cálculo para Salário;
