@@ -29,7 +29,7 @@ O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Empre
 
 ### Entendimento dos Dados
 
-* Os dados utilizados são dados fornecidos pela Adzuna para a competição do Kaggle, os dados de treino contém as colunas:
+* Os dados utilizados são dados fornecidos pela Adzuna para a competição do [Job Prediction](https://www.kaggle.com/c/job-salary-prediction) do Kaggle, os dados de treino contém as colunas:
 * Id, Title, FullDescription, LocationRaw, LocationNormalized, ContractType, ContractTime, Company, Category, SalaryRaw, SalaryNormalized e SourceName.
 
 * Os dados de teste e validação não contém as colunas relacionadas ao salário, SalaryRaw e SalaryNormalized.
