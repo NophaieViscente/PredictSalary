@@ -52,7 +52,7 @@ O dataSet de treino tem ***244768*** linhas. Conforme imagem :
 
 ### Modelagem
 
-* Os modelos implementados, ambos os modelos testados foram contemplados com a alimentação através da incorporação de palavras do modelo [Word2Vec](https://medium.com/@everton.tomalok/word2vec-e-sua-import%C3%A2ncia-na-etapa-de-pr%C3%A9-processamento-d0813acfc8ab#:~:text=Word2Vec%20%C3%A9%20um%20m%C3%A9todo%20estat%C3%ADstico%20para%20aprender%20eficientemente,independente%2C%20a%20partir%20de%20um%20corpus%20de%20texto.).
+* Ambos os modelos testados foram contemplados com pré-processamento de palavras do modelo [Word2Vec](https://medium.com/@everton.tomalok/word2vec-e-sua-import%C3%A2ncia-na-etapa-de-pr%C3%A9-processamento-d0813acfc8ab#:~:text=Word2Vec%20%C3%A9%20um%20m%C3%A9todo%20estat%C3%ADstico%20para%20aprender%20eficientemente,independente%2C%20a%20partir%20de%20um%20corpus%20de%20texto.).
 *  Após isso foram passados os dados para os modelos preditores [Regressão Linear](https://medium.com/@lauradamaceno/regress%C3%A3o-linear-6a7f247c3e29) e [XGBoost](https://xgboost.readthedocs.io/en/stable/) para treinamento e validação.
 
 
