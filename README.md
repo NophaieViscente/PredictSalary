@@ -20,7 +20,7 @@ https://www.kaggle.com/c/job-salary-prediction/data
 
 O projeto começa sendo executado, pelo notebook [Analise Textual Vagas de Emprego - Análise Exploratória de Dados (AED)](/PredictSalary_RegressionProblemExample_AED.ipynb). Onde encontram-se algumas análises além da exportação do dataset que usaremos posteriormente para as predições que estão no notebook ...
 
-### Entendimento Objetivos do Projeto 
+### Entendimento : Objetivos do Projeto 
 
 * O objetivo do projeto é predizer salários com base na descrição textual de suas vagas.
 
